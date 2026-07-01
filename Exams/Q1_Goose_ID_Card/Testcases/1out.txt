@@ -1,0 +1,5 @@
+=== Goose ID Card ===
+Name: Gigi
+Age: 3 years old
+Wing Length: 25.50 cm
+Captain: True

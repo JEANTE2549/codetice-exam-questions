@@ -1,0 +1,5 @@
+=== Goose ID Card ===
+Name: Long Name Example
+Age: 3 years old
+Wing Length: 3.33 cm
+Captain: False

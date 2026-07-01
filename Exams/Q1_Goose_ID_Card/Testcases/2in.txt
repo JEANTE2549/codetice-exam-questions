@@ -1,0 +1,4 @@
+Captain Donald
+9
+4.375
+False

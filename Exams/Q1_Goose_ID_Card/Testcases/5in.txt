@@ -1,0 +1,4 @@
+Captain Goose
+1
+99.999
+True

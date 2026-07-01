@@ -1,0 +1,5 @@
+=== Goose ID Card ===
+Name: Charlie Duck
+Age: 0 years old
+Wing Length: 0.00 cm
+Captain: False

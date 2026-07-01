@@ -1,0 +1,5 @@
+=== Goose ID Card ===
+Name: Rounding Edge
+Age: 8 years old
+Wing Length: 3.00 cm
+Captain: True

@@ -1,0 +1,5 @@
+=== Goose ID Card ===
+Name: Captain Zero
+Age: 10 years old
+Wing Length: 10.00 cm
+Captain: False

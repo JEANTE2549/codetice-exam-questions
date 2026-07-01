@@ -1,0 +1,5 @@
+=== Goose ID Card ===
+Name: Ada Lovelace
+Age: 12 years old
+Wing Length: 45.68 cm
+Captain: False

@@ -1,0 +1,5 @@
+=== Goose ID Card ===
+Name: Maple
+Age: 25 years old
+Wing Length: 12.30 cm
+Captain: True

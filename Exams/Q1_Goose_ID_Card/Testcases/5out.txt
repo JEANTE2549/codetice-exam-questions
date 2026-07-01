@@ -1,0 +1,5 @@
+=== Goose ID Card ===
+Name: Captain Goose
+Age: 1 years old
+Wing Length: 100.00 cm
+Captain: True

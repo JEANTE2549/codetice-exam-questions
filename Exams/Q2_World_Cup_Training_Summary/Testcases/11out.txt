@@ -1,0 +1,5 @@
+=== World Cup Training Summary ===
+Training Days: 7
+Training Hours Before Breaks: 168.0
+Break Time: 168.0
+Actual Training Hours: 0.0
