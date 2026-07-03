@@ -1,0 +1,7 @@
+Kane shoots the ball! Stamina left: 40
+Walker tackles! Stamina left: 30
+Kane shoots the ball! Stamina left: 30
+Walker tackles! Stamina left: 15
+Salah shoots the ball! Stamina left: 10
+Kane shoots the ball! Stamina left: 20
+Walker tackles! Stamina left: 0

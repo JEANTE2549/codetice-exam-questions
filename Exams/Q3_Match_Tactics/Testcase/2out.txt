@@ -1,0 +1,3 @@
+Ronaldo shoots the ball! Stamina left: 0
+Ronaldo is too tired to shoot.
+Ronaldo is too tired to shoot.

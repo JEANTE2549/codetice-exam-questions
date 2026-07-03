@@ -1,0 +1,9 @@
+8
+Salah Forward
+Walker Defender
+Mane Forward
+Gomez Defender
+Alisson Goalkeeper
+Diaz Midfielder
+Robertson Defender
+Fabinho Midfielder

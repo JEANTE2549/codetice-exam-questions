@@ -1,0 +1,3 @@
+130
+{"Ronaldo": 50, "Neymar": 80, "Mbappe": 120, "Haaland": 90}
+Ronaldo Neymar

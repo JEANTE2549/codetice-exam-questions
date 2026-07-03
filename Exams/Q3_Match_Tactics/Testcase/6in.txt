@@ -1,0 +1,11 @@
+10
+CREATE Attacker Kane 50
+CREATE Defender Walker 45
+CREATE Attacker Salah 20
+ACTION Kane shoot
+ACTION Walker tackle
+ACTION Kane shoot
+ACTION Walker tackle
+ACTION Salah shoot
+ACTION Kane shoot
+ACTION Walker tackle
