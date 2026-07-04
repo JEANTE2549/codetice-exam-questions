@@ -1,0 +1,5 @@
+4
+CREATE Attacker Ronaldo 10
+ACTION Ronaldo shoot
+ACTION Ronaldo shoot
+ACTION Ronaldo shoot

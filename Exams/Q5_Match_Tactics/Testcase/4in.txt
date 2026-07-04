@@ -1,0 +1,5 @@
+4
+CREATE Attacker Benzema 9
+ACTION Benzema shoot
+ACTION Benzema shoot
+ACTION Benzema shoot

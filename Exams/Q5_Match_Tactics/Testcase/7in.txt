@@ -1,0 +1,7 @@
+6
+CREATE Attacker Mbappe 100
+ACTION Mbappe shoot
+ACTION Mbappe shoot
+ACTION Mbappe shoot
+ACTION Mbappe shoot
+ACTION Mbappe shoot

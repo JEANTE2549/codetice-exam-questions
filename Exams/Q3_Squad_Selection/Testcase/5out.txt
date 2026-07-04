@@ -1,0 +1,12 @@
+Position: Forward
+- Salah
+- Mane
+Position: Defender
+- Walker
+- Gomez
+- Robertson
+Position: Goalkeeper
+- Alisson
+Position: Midfielder
+- Diaz
+- Fabinho
