@@ -1,0 +1,6 @@
+Voyager
+200
+150
+Jupiter
+80
+50

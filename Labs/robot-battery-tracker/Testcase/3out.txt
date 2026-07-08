@@ -1,0 +1,3 @@
+Tiny moved to (0, 25). Battery: 0
+Tiny has insufficient battery to move.
+Status: Tiny at (0, 25), Battery: 0

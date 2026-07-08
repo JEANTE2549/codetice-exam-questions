@@ -1,0 +1,27 @@
+Word Frequencies:
+python: 2
+is: 2
+an: 1
+easy: 1
+to: 1
+learn: 1
+programming: 1
+language: 1
+also: 1
+very: 1
+powerful: 1
+and: 1
+widely: 1
+used: 1
+in: 1
+computer: 1
+science: 1
+Grouped By Length:
+2: is, an, to, in
+3: and
+4: easy, also, very, used
+5: learn
+6: python, widely
+7: science
+8: language, powerful, computer
+11: programming

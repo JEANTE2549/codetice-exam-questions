@@ -1,0 +1,4 @@
+ROBO-01 moved to (0, 5). Battery: 80
+ROBO-01 moved to (10, 5). Battery: 40
+ROBO-01 has insufficient battery to move.
+Status: ROBO-01 at (10, 5), Battery: 40

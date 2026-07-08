@@ -1,0 +1,3 @@
+L01: Occupied (Pim)
+L02: Available (None)
+L10: Occupied (Nina)

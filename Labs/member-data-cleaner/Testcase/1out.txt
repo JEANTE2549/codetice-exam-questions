@@ -1,0 +1,9 @@
+Valid Members:
+Somsak (somsak@gmail.com, 25)
+Anong (anong@gmail.co.th, 18)
+Errors:
+Row for Somchai: Invalid email
+Row for Somying: Age -5 is out of valid range (18-60)
+Row for Wichai: Age 'abc' is not a valid integer
+Row for Preecha: Age 75 is out of valid range (18-60)
+Summary: 2 valid, 4 invalid

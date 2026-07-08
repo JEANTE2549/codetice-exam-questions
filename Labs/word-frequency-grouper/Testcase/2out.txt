@@ -1,0 +1,7 @@
+Word Frequencies:
+cat: 2
+dog: 2
+bird: 1
+Grouped By Length:
+3: cat, dog
+4: bird

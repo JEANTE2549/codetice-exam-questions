@@ -1,0 +1,8 @@
+Bought 5 AAPL for 750.00 Baht. Cash: 9250.00 Baht.
+Sold 2 TSLA for 500.00 Baht. Cash: 9750.00 Baht.
+Failed: Not enough cash to buy 100 TSLA.
+Cash: 9750.00 Baht
+Stocks:
+AAPL: 15
+TSLA: 3
+Sold 15 AAPL for 1500.00 Baht. Cash: 11250.00 Baht.

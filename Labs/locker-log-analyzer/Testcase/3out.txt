@@ -1,0 +1,2 @@
+A1: Occupied (Ben)
+A2: Available (None)

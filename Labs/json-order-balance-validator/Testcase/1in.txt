@@ -1,0 +1,12 @@
+Nong_CPE
+1500.0
+3
+Python Book
+450.0
+2
+USB-C Hub
+320.0
+1
+Mechanical Pencil
+45.0
+3

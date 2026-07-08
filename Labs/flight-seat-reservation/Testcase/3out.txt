@@ -1,0 +1,3 @@
+Success: Reserved seat C1. Price: 1300.00 Baht.
+Failed: Seat C2 is already reserved by another passenger.
+Success: Reserved seat B2. Price: 2100.00 Baht.

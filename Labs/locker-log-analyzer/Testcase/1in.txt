@@ -1,0 +1,7 @@
+6
+L01,Alice,RENT
+L02,Bob,RENT
+L01,Alice,RETURN
+L03,Charlie,RENT
+L02,Bob,RETURN
+L02,David,RENT

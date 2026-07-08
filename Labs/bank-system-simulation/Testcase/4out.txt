@@ -1,0 +1,5 @@
+Failed: Account 55 not found.
+Registered 55 Kim with balance 20.00 Baht.
+Failed: Account 56 not found.
+Final Accounts:
+55 Kim: 20.00 Baht

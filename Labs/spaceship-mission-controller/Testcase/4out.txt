@@ -1,0 +1,1 @@
+Liftoff Success! Spaceship Exact is heading to Orbit. Consumed 100.00 L. Remaining fuel: 0.00 L.

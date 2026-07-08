@@ -1,0 +1,6 @@
+Bought 5 ABC for 250.00 Baht. Cash: 250.00 Baht.
+Sold 2 ABC for 150.00 Baht. Cash: 400.00 Baht.
+Failed: Not enough ABC shares to sell 5.
+Cash: 400.00 Baht
+Stocks:
+ABC: 3

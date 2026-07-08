@@ -1,0 +1,3 @@
+Success: Reserved seat A2. Price: 1500.00 Baht.
+Failed: Seat A2 is already reserved by another passenger.
+Failed: Seat A4 does not exist on this flight.

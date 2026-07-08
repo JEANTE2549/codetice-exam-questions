@@ -1,0 +1,6 @@
+Valid Members:
+None
+Errors:
+Row for Foo: Age 'abc' is not a valid integer
+Row for Gee: Age 61 is out of valid range (18-60)
+Summary: 0 valid, 2 invalid

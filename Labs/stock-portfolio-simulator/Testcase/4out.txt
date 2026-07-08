@@ -1,0 +1,7 @@
+Failed: Not enough C shares to sell 1.
+Bought 2 C for 200.00 Baht. Cash: 800.00 Baht.
+Cash: 800.00 Baht
+Stocks:
+A: 1
+B: 2
+C: 2

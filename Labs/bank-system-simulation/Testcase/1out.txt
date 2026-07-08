@@ -1,0 +1,9 @@
+Registered 101 Somchai with balance 500.00 Baht.
+Registered 102 Somying with balance 1000.00 Baht.
+Deposited 200.00 Baht to 101. Balance: 700.00 Baht.
+Withdrew 300.00 Baht from 102. Balance: 700.00 Baht.
+Transferred 400.00 Baht from 101 to 102.
+Failed: Insufficient balance in 101.
+Final Accounts:
+101 Somchai: 300.00 Baht
+102 Somying: 1100.00 Baht

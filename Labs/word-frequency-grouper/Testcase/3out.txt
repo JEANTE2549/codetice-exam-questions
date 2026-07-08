@@ -1,0 +1,11 @@
+Word Frequencies:
+one: 1
+two: 1
+three: 1
+four: 1
+five: 1
+six: 1
+Grouped By Length:
+3: one, two, six
+4: four, five
+5: three

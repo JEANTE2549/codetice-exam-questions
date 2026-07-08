@@ -1,0 +1,8 @@
+Registered 1 A with balance 0.00 Baht.
+Deposited 100.50 Baht to 1. Balance: 100.50 Baht.
+Withdrew 40.25 Baht from 1. Balance: 60.25 Baht.
+Registered 2 B with balance 10.00 Baht.
+Transferred 60.25 Baht from 1 to 2.
+Final Accounts:
+1 A: 0.00 Baht
+2 B: 70.25 Baht

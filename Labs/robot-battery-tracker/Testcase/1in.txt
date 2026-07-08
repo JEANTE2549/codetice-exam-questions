@@ -1,0 +1,8 @@
+ROBO-01
+3
+UP
+5
+RIGHT
+10
+DOWN
+15

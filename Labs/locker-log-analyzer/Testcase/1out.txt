@@ -1,0 +1,3 @@
+L01: Available (None)
+L02: Occupied (David)
+L03: Occupied (Charlie)

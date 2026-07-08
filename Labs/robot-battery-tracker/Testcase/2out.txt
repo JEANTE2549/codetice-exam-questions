@@ -1,0 +1,3 @@
+BOT moved to (-3, 0). Battery: 88
+BOT moved to (-3, -4). Battery: 72
+Status: BOT at (-3, -4), Battery: 72

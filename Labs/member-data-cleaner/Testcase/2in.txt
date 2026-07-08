@@ -1,0 +1,10 @@
+3
+Ali
+ali@example.com
+18
+Bee
+bee@uni.ac.th
+60
+Cat
+cat@mail.co.th
+30

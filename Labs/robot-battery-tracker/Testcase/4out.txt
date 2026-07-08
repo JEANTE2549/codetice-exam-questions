@@ -1,0 +1,5 @@
+Scout moved to (1, 0). Battery: 96
+Scout moved to (1, 2). Battery: 88
+Scout moved to (0, 2). Battery: 84
+Scout moved to (0, 0). Battery: 76
+Status: Scout at (0, 0), Battery: 76

@@ -1,0 +1,6 @@
+5
+A1,Ann,RENT
+A1,Ann,RETURN
+A1,Ben,RENT
+A2,Cee,RENT
+A2,Cee,RETURN

@@ -1,0 +1,6 @@
+Registered 201 Arun with balance 100.00 Baht.
+Failed: Account 999 not found.
+Withdrew 30.00 Baht from 201. Balance: 70.00 Baht.
+Failed: Account 999 not found.
+Final Accounts:
+201 Arun: 70.00 Baht

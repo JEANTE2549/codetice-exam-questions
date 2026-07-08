@@ -1,0 +1,5 @@
+Failed: Not enough cash to buy 1 XYZ.
+Sold 1 ABC for 150.00 Baht. Cash: 250.00 Baht.
+Cash: 250.00 Baht
+Stocks:
+None

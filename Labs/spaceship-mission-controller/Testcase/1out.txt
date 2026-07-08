@@ -1,0 +1,1 @@
+Liftoff Success! Spaceship Apollo is heading to Mars. Consumed 425.00 L. Remaining fuel: 75.00 L.

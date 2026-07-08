@@ -1,0 +1,6 @@
+Tiny
+2
+UP
+25
+RIGHT
+1

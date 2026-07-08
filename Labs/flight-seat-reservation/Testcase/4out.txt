@@ -1,0 +1,3 @@
+Failed: Seat D1 is already reserved by another passenger.
+Success: Reserved seat E1. Price: 800.00 Baht.
+Failed: Seat E1 is already reserved by another passenger.

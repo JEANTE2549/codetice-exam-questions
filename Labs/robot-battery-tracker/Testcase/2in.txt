@@ -1,0 +1,6 @@
+BOT
+2
+LEFT
+3
+DOWN
+4
